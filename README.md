@@ -6,8 +6,7 @@ I dropped out of college at 17 and didn't return to education until my mid-30's.
 
 So, here's some bullet points about me, using the pre-prepared template.
 
-- 🔭 I’m currently working on: learning all about Javascript
-- 🌱 I’m currently learning: Python and SQL
+- 🔭 I’m currently working on: becoming a software engineer
 - 📫 How to reach me: nexiauk@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've walked on a live volcano!
